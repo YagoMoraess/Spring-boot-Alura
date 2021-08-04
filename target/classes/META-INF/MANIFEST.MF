@@ -1,10 +1,7 @@
 Manifest-Version: 1.0
-Built-By: Yaguera
-Build-Jdk: 16.0.1
+Build-Jdk-Spec: 16
 Implementation-Title: forum
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: br.com.alura
-Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
- -starter-parent/forum
+Implementation-Vendor: Pivotal Software, Inc.
 Created-By: Maven Integration for Eclipse
 
